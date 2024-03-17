@@ -1,4 +1,5 @@
 ### Hi there 👋
+### This is my personal repository which I put course related stuff.
 
 <!--
 **cudagu/cudagu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
